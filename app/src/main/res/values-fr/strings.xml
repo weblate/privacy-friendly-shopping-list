@@ -154,14 +154,14 @@
     <!-- ### WELCOME DIALOG ### -->
     <string name="welcome_text">Cette application vous permet de créer et de gérer des listes de courses. Vous pouvez associer à ces listes des priorités, des dates limites, des rappels et plus encore.
     </string>
-    <string name="welcome">Bienvenue</string>
+    <string name="welcome">Bienvenu</string>
     <string name="okay">Ok</string>
     <string name="viewhelp">Afficher l\'aide</string>
     <string name="next">Suivant</string>
     <string name="skip">Ignorer</string>
     <!--### HELP ###-->
     <string name="help">Aide</string>
-    <string name="help_overview_heading">Vue d\'ensemble</string>
+    <string name="help_overview_heading">Aperçu</string>
     <string name="help_intro1">Bienvenue sur la page d\'aide de Privacy Friendly Shopping List (la liste de course respectueuse de la vie privée). Cette application vous permet non seulement de créer et de gérer des listes de courses,
          mais aussi de leur associer des priorités, des dates limites, des rappels ou encore des commentaires.
     </string>
@@ -242,7 +242,7 @@
     <string name="help_camera_permission_description">Cette permission est nécessaire afin de pouvoir prendre une photo et l\'ajouter à la fiche d\'un produit. Si la permission est refusée, cette fonctionnalité-ci ne pourra pas être utilisée, mais cela
         n\'affectera pas les autres fonctionnalités.
     </string>
-    <string name="help_permissions_heading">Permissions</string>
+    <string name="help_permissions_heading">Autorisations</string>
     <string name="help_permissions_description">Aucune autre permission requise.</string>
     <!-- Product Dialog -->
     <string name="product_name">Nom du produit</string>
