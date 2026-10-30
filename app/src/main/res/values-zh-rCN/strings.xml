@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_about">关于</string>
+    <string name="version_number">版本</string>
+    <string name="about_affiliation">隶属于</string>
+    <string name="next">下个</string>
+    <string name="welcome">欢迎</string>
+    <string name="edit">编辑</string>
 </resources>
